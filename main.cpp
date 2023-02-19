@@ -12,7 +12,7 @@ using namespace std;
 
 int main()
 {
-    cout<<"Almost Done!!!";
+    cout<<"Last One!!!";
 
     return 0;
 }
